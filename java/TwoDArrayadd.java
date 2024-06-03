@@ -37,6 +37,7 @@ public class TwoDArrayadd {
 		// }
         
 
-  
+		sc.close();
     }
+
 }
